@@ -9,6 +9,3 @@ the app works to the next way:
 ## Results
 
 The app going to show the calories consummed, the calories burned and the difference between them
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
